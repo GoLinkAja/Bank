@@ -92,7 +92,7 @@ async function checkProxy(proxyAddress: string, proxyPort: number): Promise<Prox
     CHECK_QUEUE.push(proxyKey);
     checkProxy(proxy.address, proxy.port)
       .then((res) => {
-        if (!res.error && res.result?.proxyip === true && res.result.country) {
+        if (!res.error && res.result?.proxyip === true && res.result?.delay < 200 && res.result.country) {
           activeProxyList.push(
             `${res.result?.proxy},${res.result?.port},${res.result?.country},${res.result?.asOrganization}`
           );
