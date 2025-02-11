@@ -1,174 +1,70 @@
-103.115.44.87,49322,CN,rainbow network
-103.115.44.87,49323,CN,rainbow network
-103.115.40.154,33981,CN,rainbow network
-45.82.252.110,2053,CY,Stark Industries Solutions
-47.89.39.186,39251,HK,Alibaba
-154.83.88.187,44196,HK,Ducky Cloud Technologies
-101.32.10.244,10457,HK,Tencent cloud computing
-103.127.248.51,443,HK,Adc Group Co.
-112.119.49.206,23555,HK,Netvigator Home Broadband
-113.254.239.245,11885,HK,HGC Broadband
-113.254.171.90,12521,HK,HGC Broadband
-103.252.117.140,2053,HK,Kamatera Inc
-103.195.49.223,1009,HK,Dimension Network & Communication
 122.10.50.98,63168,HK,HKDF
-118.142.2.106,13745,HK,HGC Broadband
-118.141.64.192,36619,HK,HGC Broadband
-118.142.2.106,21826,HK,HGC Broadband
-141.11.148.60,8080,HK,Akile
-141.11.175.174,20368,HK,
-118.142.2.106,31542,HK,HGC Broadband
-118.142.2.106,36659,HK,HGC Broadband
-141.11.218.249,8080,HK,Akile
-141.11.218.253,8080,HK,Akile
-141.11.219.114,8080,HK,Akile
-141.11.78.77,8080,HK,Akile
-141.11.77.248,8080,HK,Akile
-141.11.91.67,8080,HK,Akile
-141.11.79.31,8080,HK,Akile
-149.104.24.14,8443,HK,Lucidacloud
-147.92.41.167,1009,HK,Dimension Network & Communication
-141.98.234.63,24443,HK,Global Connectivity Solutions Llp
-154.12.176.201,587,HK,DMIT
-124.156.129.206,6666,HK,Tencent cloud computing
-141.11.175.133,8080,HK,Akile
-141.11.216.39,8080,HK,Akile
-156.234.17.144,443,HK,Yancy
-118.142.2.106,22498,HK,HGC Broadband
-156.254.114.104,443,HK,Datawing
-103.195.49.225,1009,HK,Dimension Network & Communication
-156.254.114.122,1233,HK,Cloudflare Warp
-156.254.114.88,1233,HK,Datawing
-156.254.115.247,8443,HK,Datawing
-154.12.176.169,11920,HK,DMIT
-149.104.29.121,443,HK,Lucidacloud
-162.245.220.242,8080,HK,Landups
-191.101.132.54,8080,HK,
-185.74.222.61,2053,HK,Stark Industries Solutions
-191.96.242.70,34518,HK,Hytron Network Services Limited
-193.233.193.12,8443,HK,Adcdata.com
-192.131.142.98,44024,HK,Leaseweb Hong Kong
-193.200.134.20,12005,HK,VH Global
-194.156.99.186,443,HK,Stark Industries Solutions
-193.233.193.12,2053,HK,Adcdata.com
-147.92.41.169,1009,HK,Dimension Network & Communication
-195.54.171.57,8443,HK,M247 Europe
-156.255.90.175,8443,HK,Datawing
-205.198.64.235,443,HK,Eons Data Communications
-38.180.94.174,35521,HK,M247 Europe
-38.207.172.42,443,HK,VMISS
-206.237.10.52,29266,HK,Overland Storage
-206.237.1.31,1233,HK,Overland Storage
-38.180.94.174,20627,HK,M247 Europe
-34.92.35.61,37455,HK,Google Cloud
-34.92.122.190,55652,HK,Google Cloud
-43.132.249.68,48908,HK,Tencent cloud computing
-43.132.180.125,42010,HK,Tencent cloud computing
-43.132.244.52,21415,HK,Tencent cloud computing
-43.132.110.81,33683,HK,Tencent cloud computing
-43.135.44.101,30002,HK,Tencent cloud computing
-43.135.30.215,47161,HK,Tencent cloud computing
-43.154.124.136,26666,HK,Tencent cloud computing
-43.154.196.20,65121,HK,Tencent cloud computing
-43.154.40.135,10334,HK,Tencent cloud computing
-43.155.22.176,443,HK,Tencent cloud computing
-43.154.200.160,20047,HK,Tencent cloud computing
-43.154.182.110,28229,HK,Tencent cloud computing
-43.155.83.86,38002,HK,Tencent cloud computing
-43.154.37.247,4397,HK,Tencent cloud computing
-43.154.182.110,38474,HK,Tencent cloud computing
-43.155.84.76,55527,HK,Tencent cloud computing
-43.155.89.93,55527,HK,Tencent cloud computing
-43.129.69.6,53101,HK,Tencent cloud computing
-43.129.160.101,54739,HK,Tencent cloud computing
-36.50.90.241,35951,HK,Cloudflare Warp
+103.127.248.51,443,HK,Adc Group Co.
+207.226.152.42,443,HK,PCCW Global
 40.81.29.103,8089,HK,Microsoft Azure
-43.129.171.137,443,HK,Tencent cloud computing
-45.136.197.252,443,HK,M247 Europe
-38.6.219.16,8080,HK,AROSS
-43.249.172.15,443,HK,Yancy
-42.98.167.229,12345,HK,Netvigator Home Broadband
-45.149.186.112,8080,HK,Akile
-45.144.137.55,17621,HK,Lucidacloud
-45.207.218.146,1233,HK,Catixs
-34.92.105.182,57820,HK,Google Cloud
-45.207.222.179,2096,HK,Catixs
-43.129.69.6,53116,HK,Tencent cloud computing
-46.232.122.240,8000,HK,Akari Networks
-47.238.102.88,587,HK,Alibaba
-47.238.184.148,587,HK,Alibaba
-47.239.231.62,7443,HK,Alibaba
-47.238.226.62,58009,HK,Alibaba
-47.239.27.174,5534,HK,Alibaba
-47.240.20.7,3445,HK,Alibaba
-47.242.126.60,21478,HK,Alibaba
-47.242.171.138,37021,HK,Alibaba
-47.243.128.70,11997,HK,Alibaba
-47.243.185.198,23233,HK,Alibaba
-47.243.57.167,28094,HK,Alibaba
-47.76.218.163,443,HK,Alibaba
-47.76.94.229,18890,HK,Alibaba
-5.188.33.21,57602,HK,G-Core Labs SA
-62.72.163.52,8443,HK,Wap.ac
 66.203.144.242,7656,HK,Dimension Network & Communication
 66.203.150.212,7656,HK,Dimension Network & Communication
-8.210.142.146,12346,HK,Alibaba
-8.210.152.145,26651,HK,Alibaba
-62.72.163.177,886,HK,Hytron Network Services
-62.72.163.191,8443,HK,Hytron Network Services
-62.72.163.178,886,HK,Hytron Network Services
-66.203.144.240,7656,HK,Dimension Network & Communication
-8.218.103.198,39237,HK,Alibaba
-8.210.7.36,43891,HK,Alibaba
-85.208.104.136,8080,HK,Akile
-8.217.26.121,38767,HK,Alibaba
-85.208.104.34,8080,HK,Akile
-8.218.245.116,42805,HK,Alibaba
-8.218.194.79,59882,HK,Alibaba
-8.218.153.23,51728,HK,Alibaba
-8.218.245.116,41528,HK,Alibaba
-8.218.245.116,49701,HK,Alibaba
-82.152.163.227,443,HK,Hytron Network Services
-82.152.163.172,1233,HK,Hytron Network Services
-83.147.2.104,8080,HK,Akile
-83.147.3.165,8080,HK,Akile
-91.229.132.49,8080,HK,Akile
-172.232.239.147,587,ID,Akamai Connected Cloud
+66.203.144.241,7656,HK,Dimension Network & Communication
+103.168.146.169,20132,ID,Herza.ID
 172.232.239.151,587,ID,Akamai Connected Cloud
 43.218.77.16,1443,ID,Amazon.com
+103.6.207.108,8080,ID,PT Pusat Media Indonesia
+172.232.239.147,587,ID,Akamai Connected Cloud
+172.232.239.249,587,ID,Akamai Connected Cloud
+35.219.15.90,443,ID,Google Cloud
+35.219.50.99,443,ID,Google Cloud
 139.59.48.26,8443,IN,Digital Ocean
 165.232.182.81,443,IN,Digital Ocean
-45.39.198.40,8080,JP,EGIHosting
+64.227.184.166,8443,IN,Digital Ocean
 150.95.25.108,2053,JP,Z.com
 150.95.25.108,8443,JP,Z.com
-194.246.114.33,2053,MD,Stark Industries Solutions
-154.83.86.52,55555,MY,Octopus Web Solution
-123.253.33.182,12306,MY,Gigabit Hosting Sdn Bhd
 45.195.76.190,29690,MY,Evoxt Enterprise
-38.60.195.203,10478,MY,Kaopu Cloud Hk Limited
-38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
-154.90.39.188,48071,MY,LightNode_Limited
 45.195.69.98,30726,MY,Evoxt Enterprise
-83.142.30.129,2096,MY,Streamline Servers
-46.151.32.139,627,RO,Datacamp
-13.250.131.37,443,SG,Amazon.com
-13.229.159.215,443,SG,Amazon.com
-13.228.155.72,443,SG,Amazon.com
-13.250.38.94,443,SG,Amazon.com
-13.250.14.76,443,SG,Amazon.com
+38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
 13.228.142.218,443,SG,Amazon.com
+13.228.155.72,443,SG,Amazon.com
+13.229.159.215,443,SG,Amazon.com
+13.250.131.37,443,SG,Amazon.com
+13.250.14.76,443,SG,Amazon.com
+13.250.38.94,443,SG,Amazon.com
+139.162.48.174,10000,SG,Akamai Connected Cloud
+139.180.215.77,57878,SG,Vultr
+140.245.34.185,59320,SG,Oracle Cloud
+146.190.111.165,443,SG,Digital Ocean
+139.162.33.248,587,SG,Akamai Connected Cloud
+143.42.68.97,17055,SG,Akamai Connected Cloud
+15.235.162.49,443,SG,OVHcloud
+161.117.249.114,2025,SG,Alibaba Cloud
+167.71.194.185,8443,SG,Digital Ocean
 178.128.80.43,443,SG,Digital Ocean
 18.141.114.130,50450,SG,Amazon.com
-206.206.76.208,8443,SG,Regxa Cloud
-206.206.76.208,2053,SG,Regxa Cloud
 18.141.114.130,52132,SG,Amazon.com
+185.126.80.215,25565,SG,Akile
+192.53.113.156,587,SG,Akamai Connected Cloud
 3.1.116.161,2053,SG,Amazon.com
+194.127.193.124,24467,SG,Leaseweb Asia
+194.127.193.240,50791,SG,Leaseweb Asia
+194.36.179.17,2053,SG,Neapol Group Ltd
+194.36.179.17,8443,SG,Neapol Group Ltd
 3.1.116.161,8443,SG,Amazon.com
+47.236.119.190,51342,SG,Alibaba
+38.181.70.7,16240,SG,Eons Data Communications
+47.236.173.166,587,SG,Alibaba
+45.32.100.46,13802,SG,Vultr
+47.236.25.107,27903,SG,Alibaba
+47.236.246.163,14108,SG,Alibaba
 45.76.183.217,49292,SG,Vultr
+45.76.156.96,2053,SG,Vultr
+47.74.254.191,8900,SG,Alibaba
+47.245.95.160,1443,SG,Alibaba
+47.236.181.185,8443,SG,Alibaba
+51.79.158.126,443,SG,OVH Hosting
+51.79.254.182,443,SG,OVH Hosting
 54.169.229.188,443,SG,Amazon.com
-171.103.14.137,32700,TH,True Internet
-45.136.238.235,24370,TH,CAT Telecom Data Center
-156.251.180.181,21698,US,Cnservers LLC
-192.252.182.52,7602,US,CTG Server
-192.253.238.34,40560,US,CTG Server
-38.55.195.234,49850,US,Lucidacloud
+8.219.237.57,31523,SG,Alibaba
+8.222.129.175,58808,SG,Alibaba
+8.219.59.208,11178,SG,Alibaba
+8.222.243.73,26385,SG,Alibaba
+8.222.220.81,25435,SG,Alibaba
+83.142.30.4,2096,SG,Streamline Servers
+8.222.212.110,1103,SG,Alibaba
