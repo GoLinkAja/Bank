@@ -1,0 +1,51 @@
+112.119.49.206,23555,HK,Netvigator Home Broadband
+103.127.248.51,443,HK,Adc Group Co.
+103.133.178.229,26010,HK,Vpsor-global
+103.195.49.224,1009,HK,Dimension Network & Communication
+103.195.49.225,1009,HK,Dimension Network & Communication
+103.195.49.223,1009,HK,Dimension Network & Communication
+147.92.41.168,1009,HK,Dimension Network & Communication
+40.81.29.103,8089,HK,Microsoft Azure
+46.149.203.201,7656,HK,Dimension Network & Communication
+46.149.203.202,7656,HK,Dimension Network & Communication
+58.176.95.46,443,HK,Hong Kong Broadband Network
+66.203.144.240,7656,HK,Dimension Network & Communication
+66.203.150.211,7656,HK,Dimension Network & Communication
+103.6.207.108,8080,ID,PT Pusat Media Indonesia
+203.194.112.119,8443,ID,First Cagayan Converge Data Center Inc.
+35.219.50.99,443,ID,Google Cloud
+203.194.112.119,2053,ID,First Cagayan Converge Data Center Inc.
+43.218.77.16,1443,ID,Amazon.com
+154.90.39.188,48071,MY,LightNode_Limited
+45.195.76.190,29690,MY,Evoxt Enterprise
+38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
+38.60.195.203,10478,MY,Kaopu Cloud Hk Limited
+123.253.33.182,12306,MY,Gigabit Hosting Sdn Bhd
+119.81.201.154,9089,SG,SoftLayer Technologies
+129.150.49.58,18650,SG,Oracle Cloud
+13.250.14.76,443,SG,Amazon.com
+13.250.38.94,443,SG,Amazon.com
+138.2.89.238,43254,SG,Oracle Cloud
+138.2.74.219,28616,SG,Cloudflare Warp
+161.117.249.114,2025,SG,Alibaba Cloud
+178.128.80.43,443,SG,Digital Ocean
+168.138.184.142,19191,SG,Oracle Cloud
+167.71.194.185,8443,SG,Digital Ocean
+168.138.166.213,10500,SG,Oracle Cloud
+194.127.193.240,50791,SG,Leaseweb Asia
+3.1.116.161,2053,SG,Amazon.com
+18.141.114.130,50450,SG,Amazon.com
+18.141.114.130,52132,SG,Amazon.com
+31.192.238.71,2053,SG,Chelyabinsk-Signal
+31.192.238.71,8443,SG,Chelyabinsk-Signal
+47.236.246.163,14108,SG,Alibaba
+47.74.254.191,8900,SG,Alibaba
+47.236.22.194,52324,SG,Alibaba
+47.236.25.107,27903,SG,Alibaba
+51.79.158.126,443,SG,OVH Hosting
+47.236.119.190,51342,SG,Alibaba
+47.245.95.160,1443,SG,Alibaba
+43.134.181.60,38371,SG,Tencent cloud computing
+54.169.229.188,443,SG,Amazon.com
+43.156.253.94,443,SG,Tencent cloud computing
+8.222.243.73,26385,SG,Alibaba
