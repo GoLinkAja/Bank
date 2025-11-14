@@ -1,76 +1,80 @@
 118.141.64.192,36619,HK,HGC Global Communications Limited
-141.11.218.249,8080,HK,Tsz Wai Chu t/a Polarish Co
-154.16.10.34,8080,HK,Digital Energy Technologies Limited
 124.244.92.109,25203,HK,Hong Kong Broadband Network Ltd
 141.11.77.248,8080,HK,AKILE LTD
-141.11.91.67,8080,HK,Tusker Technologies Pty Ltd
+154.16.10.34,8080,HK,Digital Energy Technologies Limited
+141.11.218.249,8080,HK,AKILE LTD
+141.11.175.133,8080,HK,AKILE LTD
+156.254.114.120,30011,HK,StepGo Limited
 192.131.142.161,46639,HK,LEASEWEB HONG KONG LIMITED
-192.252.182.52,7602,HK,Integen, Inc
 210.6.207.42,18622,HK,Hong Kong Broadband Network Ltd
+192.252.182.52,7602,HK,Integen, Inc
 36.50.90.241,47790,HK,IoT Innovation Technologies Company Limited
-36.50.90.241,35951,HK,IoT Innovation Technologies Company Limited
-43.154.124.136,26666,HK,6 COLLYER QUAY
 38.6.219.16,8080,HK,PEG TECH INC
 43.132.244.52,21415,HK,6 COLLYER QUAY
-46.232.122.240,8000,HK,Dom Tehniki Ltd
+36.50.90.241,35951,HK,IoT Innovation Technologies Company Limited
+43.154.124.136,26666,HK,6 COLLYER QUAY
 45.149.186.112,8080,HK,HYTRON NETWORK HK
 45.39.198.40,8080,HK,Internet Utilities NA LLC
+46.232.122.240,8000,HK,Dom Tehniki Ltd
 47.242.171.138,37021,HK,ALIBABA CLOUD - HK
-47.76.218.163,443,HK,Alibaba Cloud - HK
 58.176.95.46,443,HK,Hong Kong Broadband Network Ltd
-8.218.245.116,49701,HK,Alibaba Cloud (Singapore) Private Limited
-83.147.3.165,8080,HK,AKILE LTD
-85.208.104.34,8080,HK,Internet Utilities Europe and Asia Limited
-89.185.30.122,53346,HK,Private Customer
-8.218.245.116,42805,HK,Alibaba Cloud (Singapore) Private Limited
+47.76.218.163,443,HK,Alibaba Cloud - HK
 8.218.245.116,41528,HK,Alibaba Cloud (Singapore) Private Limited
+83.147.3.165,8080,HK,Tsz Wai Chu t/a Polarish Co
+8.218.245.116,42805,HK,Alibaba Cloud (Singapore) Private Limited
+8.218.245.116,49701,HK,Alibaba Cloud (Singapore) Private Limited
+89.185.30.122,53346,HK,Private Customer
+85.208.104.34,8080,HK,Internet Utilities Europe and Asia Limited
+103.6.207.108,8080,ID,PT Pusat Media Indonesia
 43.218.77.16,1443,ID,Amazon.com, Inc.
-129.150.36.188,53435,SG,Oracle Corporation
+38.60.193.247,13300,MY,Kaopu Cloud HK Limited
 104.248.145.216,443,SG,DigitalOcean, LLC
+13.250.131.37,443,SG,Amazon Data Services Singapore
+129.150.36.188,53435,SG,Oracle Corporation
 138.2.69.236,23334,SG,Oracle Corporation
 129.150.49.58,18650,SG,Oracle Corporation
 129.150.58.86,57621,SG,Oracle Corporation
+138.2.89.238,43254,SG,Oracle Corporation
 138.2.89.64,32962,SG,Oracle Corporation
 138.2.95.33,17465,SG,Oracle Corporation
-138.2.89.238,43254,SG,Oracle Corporation
-143.42.66.91,443,SG,Viewqwest Pte Ltd
-158.178.236.14,61731,SG,Oracle Corporation
-158.178.243.152,61731,SG,Oracle Corporation
 146.235.19.79,28983,SG,Oracle Corporation
-158.178.246.142,61731,SG,Oracle Corporation
+143.42.66.91,443,SG,Viewqwest Pte Ltd
 146.235.18.248,45137,SG,Oracle Corporation
-168.138.170.211,53702,SG,Oracle Public Cloud
-178.128.80.43,443,SG,DigitalOcean, LLC
-194.127.193.124,24467,SG,Greencloud LLC
-194.36.178.36,8443,SG,FIRST SERVER LIMITED
+158.178.243.152,61731,SG,Oracle Corporation
+158.178.246.142,61731,SG,Oracle Corporation
+158.178.236.14,61731,SG,Oracle Corporation
 168.138.171.70,23280,SG,Oracle Public Cloud
-194.36.179.17,2053,SG,FIRST SERVER LIMITED
+168.138.170.211,53702,SG,Oracle Public Cloud
 168.138.181.188,61731,SG,Oracle Public Cloud
-194.127.193.240,50791,SG,Greencloud LLC
+178.128.80.43,443,SG,DigitalOcean, LLC
 194.36.178.36,2053,SG,FIRST SERVER LIMITED
+194.127.193.240,50791,SG,Greencloud LLC
+194.36.178.36,8443,SG,FIRST SERVER LIMITED
+194.36.179.17,2053,SG,FIRST SERVER LIMITED
+194.36.179.5,2053,SG,FIRST SERVER LIMITED
+194.127.193.124,24467,SG,Greencloud LLC
 213.35.108.135,12596,SG,Oracle Svenska AB
 194.36.179.17,8443,SG,FIRST SERVER LIMITED
 213.35.100.31,47112,SG,Oracle Svenska AB
 213.35.107.73,443,SG,Oracle Svenska AB
-43.128.95.84,38091,SG,6 COLLYER QUAY
 31.192.238.71,2053,SG,PDK LLC
 31.192.238.71,8443,SG,PDK LLC
-43.156.181.203,443,SG,16 COLLYER QUAY
+43.128.95.84,38091,SG,6 COLLYER QUAY
 43.156.116.194,443,SG,6 COLLYER QUAY
-47.236.119.190,51342,SG,Alibaba Cloud LLC
+43.156.181.203,443,SG,16 COLLYER QUAY
 45.32.100.46,13802,SG,Vultr Holdings, LLC
 45.76.183.217,49292,SG,Vultr Holdings, LLC
-51.79.158.58,8443,SG,OVH Singapore PTE. LTD
+47.236.119.190,51342,SG,Alibaba Cloud LLC
 47.74.254.191,8900,SG,Alibaba Cloud - SG
 5.34.176.119,81,SG,Green Floid LLC
-62.72.46.14,8443,SG,Contabo GmbH
 51.79.158.58,2053,SG,OVH Singapore PTE. LTD
+51.79.158.58,8443,SG,OVH Singapore PTE. LTD
 8.219.58.164,57373,SG,Alibaba Cloud (Singapore) Private Limited
+83.142.30.129,2096,SG,GSL Networks Pty LTD - Singapore
+62.72.46.14,8443,SG,Contabo GmbH
+91.192.81.154,8443,SG,Melbikomas UAB
 8.222.220.81,25435,SG,Alibaba Cloud (Singapore) Private Limited
 83.142.30.4,2096,SG,Zappie Host LLC
-83.142.30.129,2096,SG,GSL Networks Pty LTD - Singapore
 91.192.81.154,2053,SG,Melbikomas UAB
-91.192.81.154,8443,SG,Melbikomas UAB
-8.219.1.169,443,SG,Alibaba Cloud (Singapore) Private Limited
 168.138.184.172,443,SG,Oracle Public Cloud
 156.154.245.83,443,SG,Vercara, LLC
